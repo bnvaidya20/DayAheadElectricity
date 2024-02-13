@@ -1,2 +1,2 @@
-# Day Ahead Electricity Prediction
+# Day Ahead Electricity Price Prediction
 Day Ahead Electricity
