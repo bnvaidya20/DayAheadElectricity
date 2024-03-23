@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Electricity Day-Ahead (DAH) Price Analysis
 
 This repository contains a series of Python scripts for exploratory data analysis (EDA), feature engineering, and predictive modeling of day-ahead (DAH) electricity prices. The scripts are designed to load, preprocess, visualize, and analyze electricity price data, as well as to build and evaluate predictive models using machine learning techniques, including Random Forest, XGBoost, and LSTM.
