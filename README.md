@@ -47,7 +47,4 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras
-=======
-# Day Ahead Electricity Price Prediction
-Day Ahead Electricity
->>>>>>> 9f7d885749b0d8559e77861d83ab14d3653e917c
+
