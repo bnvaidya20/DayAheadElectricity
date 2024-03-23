@@ -7,7 +7,7 @@ import seaborn as sns
 color_pal = sns.color_palette()
 plt.style.use('fivethirtyeight')
 
-from utilities import DataLoader, Preprocessor, Visualization, GrangerCausality
+from utils import DataLoader, Preprocessor, Visualization, GrangerCausality
 
 # Load the Data
 

@@ -1,7 +1,7 @@
 # Import the Libraries
 import pandas as pd
 
-from utilities import DataLoader, Plotter, DataPreparation, ModelEvaluator, RandomForestModel, XGBoostModel
+from utils import DataLoader, Plotter, DataPreparation, ModelEvaluator, RandomForestModel, XGBoostModel
 
 
 # Load the Data

@@ -1,7 +1,7 @@
 # Import the Libraries
 import pandas as pd
 
-from utilities import DataLoader, Preprocessor, FeatureEngineering, Plotter
+from utils import DataLoader, Preprocessor, FeatureEngineering, Plotter
 
 
 # Load the Data
